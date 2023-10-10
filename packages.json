@@ -1,0 +1,19 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "Flexoki",
+            "description": "An inky color scheme for prose and code",
+            "author": "kepano",
+            "details": "https://github.com/kepano/flexoki-sublime",
+            "issues": "https://github.com/kepano/flexoki-sublime/issues",
+            "labels": ["color scheme"],
+            "releases": [
+              {
+                "sublime_text": "*",
+                "tags": true
+              }
+            ]
+        }
+    ]
+}

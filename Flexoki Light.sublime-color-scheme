@@ -1,5 +1,5 @@
 {
-    "name": "Flexoki Dark",
+    "name": "Flexoki Light",
     "author": "kepano",
     "variables":
     {
@@ -47,7 +47,7 @@
 
         "minimap_border": "var(ui-2)",
 
-        "caret": "var(base-50)",
+        "caret": "var(primary)",
         "block_caret": "var(primary)",
         "invisibles": "var(tx-3)",
         "misspelling": "var(red)",

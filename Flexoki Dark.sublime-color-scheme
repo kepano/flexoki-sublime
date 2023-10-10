@@ -40,14 +40,13 @@
         "background": "var(bg-1)",
         "foreground": "var(tx-1)",
         "line_highlight": "var(bg-2)",
-
         "gutter": "var(bg-2)",
         "gutter_foreground": "var(tx-3)",
         "gutter_foreground_highlight": "var(tx-2)",
 
         "minimap_border": "var(ui-2)",
 
-        "caret": "var(base-50)",
+        "caret": "var(primary)",
         "block_caret": "var(primary)",
         "invisibles": "var(tx-3)",
         "misspelling": "var(red)",

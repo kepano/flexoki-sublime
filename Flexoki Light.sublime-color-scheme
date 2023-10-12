@@ -41,7 +41,7 @@
         "foreground": "var(tx-1)",
         "line_highlight": "var(bg-2)",
 
-        "gutter": "var(bg-2)",
+        "gutter": "var(bg-1)",
         "gutter_foreground": "var(tx-3)",
         "gutter_foreground_highlight": "var(tx-2)",
 
